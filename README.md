@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Mudit Mangal
 
-<!--
-**Mudit874/Mudit874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering Student | Full Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+🚀 Building real-world applications and continuously improving my DSA & development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Full Stack Development
+- 🧩 Practicing DSA and problem solving
+- 🚀 Building projects with the MERN stack
+- 🌱 Currently learning and improving every day
